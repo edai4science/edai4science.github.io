@@ -1,1 +1,1 @@
-# Structured Probabilistic Inference and Generative Modeling 2024 
+# Experimental Design: AI for Science 2025
