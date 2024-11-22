@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Workshop on Experimental Design - AI 4 Science # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
-last_name: 
+last_name: Experimenal Design - AI 4 Science
 email: email@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
-footer_text: >
+footer_text: Website template from spigmworkshop2024.github.io
 
 keywords:  # add your own keywords or leave empty
 

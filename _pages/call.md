@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /submissions/
-title: Call for Short Talks
-description: Short talks (10 - 15 min) are presentations of either published or ongoing research from  junior researchers.
+title: Call for Abstracts
+description: We solicit abstracts of either published or ongoing research from junior researchers. Authors of selected abstracts will have a chance to present a short talk on the same (10 min)
 nav: true
 nav_order: 3
 ---
@@ -22,24 +22,11 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates (Anywhere on Earth)
 
-*   Submission Deadline: <s><code class="language-plaintext highlighter-rouge">May 25</code></s> `May 27, 2024` [UPDATE (5/23): Extended for 2 days. This's the hard deadline for all submissions.]
-*   Review Bidding Period: `May 27-29, 2024`
-*   Reviewer Deadline: `June 13, 2024`
-*   Acceptance Notification: `June 16, 2024`
-*   Camera Ready Deadline: `July 19, 2024`
-*   Workshop Date: `July 26, 2024`
+TBA
 
 ## Submission Details
 
-To ensure your submission is considered, please adhere to the following guidelines:
-
-
-
-*   **Formatting Instructions**: We solicit <s>4-page</s> **4-to-8-page [UPDATE (5/24): extended due to high volume of requests]** workshop papers (with unlimited references and appendix) following our **[LaTeX template](https://www.overleaf.com/read/ybgbzctsxqwj#61abdc)** (edited from ICML 2024 main conference paper template). The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
-*   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
-
-To submit your work, please visit the **[OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/SPIGM)**.
-
+TBA
 
 ## Questions
 
