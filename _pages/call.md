@@ -11,14 +11,13 @@ nav_order: 3
 
 ## Topics
 
-We invite submissions related (but not limited) to the following topics:
+We invite abstract submissions related (but not limited) to the following topics:
 
-* Inference and generating methods for graphs, time series, text, video, and other structured modalities
-* Unsupervised representation learning of high dimensional structured data
-* Scaling and accelerating inference and generative models on structured data
-* Uncertainty quantification in AI systems
-* Applications and practical implementations of existing methods to areas in science
-* Empirical analysis comparing different architectures for a given data modality and application
+* Bayesian Experimental Design and Optimization
+* Model-based Experimental Design and Offline Optimization
+* Generative models for Decision Making in Science and Biology
+* LLMs for Decision Making in Science
+* Causality and Causal Experimental Design
 
 ## Important Dates (Anywhere on Earth)
 
