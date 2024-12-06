@@ -9,7 +9,7 @@ last_name: "Experimental Design:  AI for Science"
 email: email@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
-footer_text: Website template from spigmworkshop2024.github.io
+footer_text: Website template from [here](https://spigmworkshop2024.github.io).
 
 keywords:  # add your own keywords or leave empty
 
