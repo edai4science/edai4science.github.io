@@ -23,12 +23,14 @@ We invite abstract submissions related (but not limited) to the following topics
 ## Important Dates (Anywhere on Earth)
 
 Last date for abstract submission: 26 Feb, 2025
+
 Notification of selected abstracts: 5 Mar, 2025
+
 Workshop: 3 and 4 April, 2025
 
 ## Submission Details
 
-Please submit abstracts (200 words or fewer) [here](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
+Please submit abstracts (200 words or fewer) in the submission form [link](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
 
 ## Questions
 
