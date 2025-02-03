@@ -2,7 +2,7 @@
 layout: page
 permalink: /submissions/
 title: Call for Abstracts
-description: We solicit abstracts of either published or ongoing research from junior researchers. Authors of selected abstracts will have a chance to present a short talk on the same (10 min)
+description: We solicit abstracts of either published or ongoing research from junior researchers. Authors of selected abstracts will have a chance to present a lightning talk on the same (10 min).
 nav: true
 nav_order: 3
 ---
@@ -18,14 +18,17 @@ We invite abstract submissions related (but not limited) to the following topics
 * Generative models for Decision Making in Science and Biology
 * LLMs for Decision Making in Science
 * Causality and Causal Experimental Design
+* Applications of Experimental Design in Biology
 
 ## Important Dates (Anywhere on Earth)
 
-TBA
+Last date for abstract submission: 26 Feb, 2025
+Notification of selected abstracts: 5 Mar, 2025
+Workshop: 3 and 4 April, 2025
 
 ## Submission Details
 
-TBA
+Please submit abstracts (200 words or fewer) [here](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
 
 ## Questions
 
