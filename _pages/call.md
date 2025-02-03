@@ -30,7 +30,9 @@ Workshop: 3 and 4 April, 2025
 
 ## Submission Details
 
-Please submit abstracts (200 words or fewer) in the submission form [link](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
+Please submit abstracts (200 words or fewer) in the submission form.
+
+[Link to submssion form](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
 
 ## Questions
 
