@@ -8,8 +8,11 @@ nav: true
 nav_order: 4
 ---
 <br>
-Address: Jen-Hsun Huang Engineering Center
+Address:
+Jen-Hsun Huang Engineering Center
+
 475 Via Ortega, Room 300 (3rd floor)
+
 Stanford, CA 94305
 
 For parking and more information on getting to the location, please see [this guide](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
