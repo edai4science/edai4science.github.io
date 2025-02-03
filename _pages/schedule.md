@@ -5,7 +5,7 @@ title: Schedule
 description: This workshop will be held in-person at Mackenzie Room, Jen-Hsun Huang Engineering Center, Stanford University on April 3rd and April 4th, 2025. The session will cover invited talks, contributed lightning talks, and a panel discussion. Long invited talks span for 45 minutes, short talks for 20 minutes and contributed lightning talks for 10 minutes each. The tentative schedule in local time zone, Pacific Stanford Time (PST), can be found below. 
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <br>
