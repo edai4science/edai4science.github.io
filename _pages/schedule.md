@@ -45,24 +45,24 @@ nav_order: 3
 
 08:00 - 08:30 - Breakfast 
 
-08:30 - 09:15 — Invited talk from Jure Leskovec
+08:30 - 09:15 — Invited talk from Jure Leskovec<br>
 09:15 - 10:00 — Invited talk from Jennifer Listgarten
 
 10:00 - 10:30 — Coffee break
 
-10:30 - 11:15 — Invited talk from Andreas Krause
+10:30 - 11:15 — Invited talk from Andreas Krause<br>
 11:15 - 12:00 — Invited talk from Yisong Yue 
 
 12:00 - 13:00 — Lunch break
 
 13:00 - 13:45 — Panel moderated by Brian Trippe
 
-13:45 - 14:05 — Short talk from Syrine Belakaria
+13:45 - 14:05 — Short talk from Syrine Belakaria<br>
 14:05 - 14:30 — Short talk from Brian Trippe
 
 14:30 - 15:00 — Coffee break
 
-14:00 - 14:45 — Invited talk from Aaron Streets
+14:00 - 14:45 — Invited talk from Aaron Streets<br>
 14:45 - 15:30 — Invited talk from Jennifer Chayes
 
 15:00 - 16:00 — Accepted lightning talks
