@@ -10,18 +10,18 @@ nav_order: 3
 
 <br>
 
-### 3rd April, 2025
+#### 3rd April, 2025
 
 07:45 - 08:15 - Breakfast 
 
 08:15 - 08:30 - Welcome Note
 
-08:30 - 09:15 — Invited talk from Stefano Ermon
+08:30 - 09:15 — Invited talk from Stefano Ermon<br>
 09:15 - 10:00 — Invited talk from Ashia Wilson
 
 10:00 - 10:30 — Coffee break
 
-10:30 - 11:15 — Invited talk from Kyunghyun Cho
+10:30 - 11:15 — Invited talk from Kyunghyun Cho<br>
 11:15 - 12:00 — Invited talk from David Baker 
 
 12:00 - 13:00 — Lunch break
@@ -30,7 +30,7 @@ nav_order: 3
 
 13:45 - 14:00 — Break
 
-14:00 - 14:45 — Invited talk from Aaron Streets
+14:00 - 14:45 — Invited talk from Aaron Streets<br>
 14:45 - 15:30 — Invited talk from Jennifer Chayes
 
 15:30 - 16:00 — Coffee break
@@ -41,7 +41,7 @@ nav_order: 3
 
 17:00 - 18:00 — Workshop Dinner 
 	
-### 4th April, 2025
+#### 4th April, 2025
 
 08:00 - 08:30 - Breakfast 
 
