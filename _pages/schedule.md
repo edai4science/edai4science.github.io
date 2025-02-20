@@ -10,43 +10,61 @@ nav_order: 3
 
 <br>
 
-<b>3rd April:</b>
+### 3rd April, 2025
 
-	08:15 - 08:30 - Welcome Note
+07:45 - 08:15 - Breakfast 
 
-	08:30 - 09:15 — Invited talk from Stefano Ermon
-	09:15 - 10:00 — Invited talk from Ashia Wilson
+08:15 - 08:30 - Welcome Note
 
-	10:00 - 10:30 — Coffee break
+08:30 - 09:15 — Invited talk from Stefano Ermon
+09:15 - 10:00 — Invited talk from Ashia Wilson
 
-	10:30 - 11:15 — Invited talk from Kyunghyun Cho
-	11:15 - 12:00 — Invited talk from David Baker 
+10:00 - 10:30 — Coffee break
 
-	12:00 - 13:00 — Lunch break
+10:30 - 11:15 — Invited talk from Kyunghyun Cho
+11:15 - 12:00 — Invited talk from David Baker 
 
-	13:00 - 13:40 — Accepted lightning talks
+12:00 - 13:00 — Lunch break
 
-	13:45 - 14:00 — Break
+13:00 - 13:40 — Accepted lightning talks
 
-	14:00 - 14:45 — Invited talk from Aaron Streets
-	14:45 - 15:30 — Invited talk from Jennifer Chayes
+13:45 - 14:00 — Break
 
-	15:30 - 16:00 — Coffee break
+14:00 - 14:45 — Invited talk from Aaron Streets
+14:45 - 15:30 — Invited talk from Jennifer Chayes
 
-	15:30 - 17:00 — Accepted lightning talks
+15:30 - 16:00 — Coffee break
 
-	17:00 - 18:00 — Poster Session
+15:30 - 17:00 — Accepted lightning talks
 
-	17:00 - 18:00 — Workshop Dinner 
+17:00 - 18:00 — Poster Session
+
+17:00 - 18:00 — Workshop Dinner 
 	
-<b>3rd April:</b>
+### 4th April, 2025
 
-		08:30 - 10:00 — Long invited talks 
-		10:00 - 10:30 — Coffee break
-		10:30 - 12:00 — Long invited talks 
-		12:00 - 13:00 — Lunch break
-		13:00 - 13:45 — Panel
-		13:45 - 14:30 — Short talks
-		14:30 - 15:00 — Coffee break
-		15:00 - 16:00 — Lightning talks
-		16:00 - 17:00 — Unstructured networking/ discussion
+08:00 - 08:30 - Breakfast 
+
+08:30 - 09:15 — Invited talk from Jure Leskovec
+09:15 - 10:00 — Invited talk from Jennifer Listgarten
+
+10:00 - 10:30 — Coffee break
+
+10:30 - 11:15 — Invited talk from Andreas Krause
+11:15 - 12:00 — Invited talk from Yisong Yue 
+
+12:00 - 13:00 — Lunch break
+
+13:00 - 13:45 — Panel moderated by Brian Trippe
+
+13:45 - 14:05 — Short talk from Syrine Belakaria
+14:05 - 14:30 — Short talk from Brian Trippe
+
+14:30 - 15:00 — Coffee break
+
+14:00 - 14:45 — Invited talk from Aaron Streets
+14:45 - 15:30 — Invited talk from Jennifer Chayes
+
+15:00 - 16:00 — Accepted lightning talks
+
+16:00 - 17:00 — Unstructured networking and discussion
