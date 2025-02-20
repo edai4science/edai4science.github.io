@@ -10,34 +10,36 @@ nav_order: 3
 
 <br>
 
-3rd April
+<b>3rd April:</b>
 
-		08:15 - 08:30 - Welcome Note
+	08:15 - 08:30 - Welcome Note
 
-		08:30 - 09:15 — Invited talk from Stefano Ermon
-		09:15 - 10:00 — Invited talk from Ashia Wilson
+	08:30 - 09:15 — Invited talk from Stefano Ermon
+	09:15 - 10:00 — Invited talk from Ashia Wilson
 
-		10:00 - 10:30 — Coffee break
+	10:00 - 10:30 — Coffee break
 
-		10:30 - 11:15 — Invited talk from Kyunghyun Cho
+	10:30 - 11:15 — Invited talk from Kyunghyun Cho
+	11:15 - 12:00 — Invited talk from David Baker 
 
-		11:15 - 12:00 — Invited talk from David Baker 
+	12:00 - 13:00 — Lunch break
 
-		12:00 - 13:00 — Lunch break
+	13:00 - 13:40 — Accepted lightning talks
 
-		13:00 - 13:45 — Panel
+	13:45 - 14:00 — Break
 
-		13:45 - 14:00 — Buffer/break
+	14:00 - 14:45 — Invited talk from Aaron Streets
+	14:45 - 15:30 — Invited talk from Jennifer Chayes
 
-		14:00 - 15:00 — Short  talks 
+	15:30 - 16:00 — Coffee break
 
-		15:00 - 15:30 — Coffee break
+	15:30 - 17:00 — Accepted lightning talks
 
-		15:30 - 17:00 — Lightning talks
+	17:00 - 18:00 — Poster Session
 
-		18:00 - 19:00 — Workshop dinner with keynote talk
+	17:00 - 18:00 — Workshop Dinner 
 	
-4th April
+<b>3rd April:</b>
 
 		08:30 - 10:00 — Long invited talks 
 		10:00 - 10:30 — Coffee break
