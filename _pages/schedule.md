@@ -10,10 +10,10 @@ nav_order: 3
 
 <br>
 
-3rd April:
+3rd April
 
-        08:15 - 08:30 - Welcome Note
-		08:30 - 10:00 — Long invited talks 
+		08:15 - 08:30 - Welcome Note
+		08:30 - 09:00 — Long invited talks 
 		10:00 - 10:30 — Coffee break
 		10:30 - 12:00 — Long invited talks 
 		12:00 - 13:00 — Lunch break
@@ -24,7 +24,7 @@ nav_order: 3
 		15:30 - 17:00 — Lightning talks
 		18:00 - 19:00 — Workshop dinner with keynote talk
 	
-4th April:
+4th April
 
 		08:30 - 10:00 — Long invited talks 
 		10:00 - 10:30 — Coffee break
