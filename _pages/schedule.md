@@ -12,58 +12,59 @@ nav_order: 3
 
 #### 3rd April, 2025
 
-07:45 - 08:15 - Breakfast 
+**07:45 - 08:15** - Breakfast 
 
-08:15 - 08:30 - Welcome Note
+**08:15 - 08:30** - Welcome Note
 
-08:30 - 09:15 — Invited talk from Stefano Ermon<br>
-09:15 - 10:00 — Invited talk from Ashia Wilson
+**08:30 - 09:15** — Invited talk from Stefano Ermon<br>
+**09:15 - 10:00** — Invited talk from Ashia Wilson
 
-10:00 - 10:30 — Coffee break
+**10:00 - 10:30** — Coffee break
 
-10:30 - 11:15 — Invited talk from Kyunghyun Cho<br>
-11:15 - 12:00 — Invited talk from David Baker 
+**10:30 - 11:15** — Invited talk from Kyunghyun Cho<br>
+**11:15 - 12:00** — Invited talk from David Baker 
 
-12:00 - 13:00 — Lunch break
+**12:00 - 13:00** — Lunch break
 
-13:00 - 13:40 — Accepted lightning talks
+**13:00 - 13:40** — Accepted lightning talks
 
-13:45 - 14:00 — Break
+**13:45 - 14:00** — Break
 
-14:00 - 14:45 — Invited talk from Aaron Streets<br>
-14:45 - 15:30 — Invited talk from Jennifer Chayes
+**14:00 - 14:45** — Invited talk from Aaron Streets<br>
+**14:45 - 15:30** — Invited talk from Jennifer Chayes
 
-15:30 - 16:00 — Coffee break
+**15:30 - 16:00** — Coffee break
 
-15:30 - 17:00 — Accepted lightning talks
+**15:30 - 17:00** — Accepted lightning talks
 
-17:00 - 18:00 — Poster Session
+**17:00 - 18:00** — Poster Session
 
-17:00 - 18:00 — Workshop Dinner 
+**17:00 - 18:00** — Workshop Dinner 
 	
 #### 4th April, 2025
 
-08:00 - 08:30 - Breakfast 
+**08:00 - 08:30** - Breakfast 
 
-08:30 - 09:15 — Invited talk from Jure Leskovec<br>
-09:15 - 10:00 — Invited talk<br> 
+**08:30 - 09:15** — Invited talk from Jure Leskovec
+
+**09:15 - 10:00** — Invited talk<br> 
                 **Speaker:** Jennifer Listgarten<br>
                 **Title:** How AI is Shaping Protein Engineering
 
-10:00 - 10:30 — Coffee break
+**10:00 - 10:30** — Coffee break
 
-10:30 - 11:15 — Invited talk from Andreas Krause<br>
-11:15 - 12:00 — Invited talk from Yisong Yue 
+**10:30 - 11:15** — Invited talk from Andreas Krause<br>
+**11:15 - 12:00** — Invited talk from Yisong Yue 
 
-12:00 - 13:00 — Lunch break
+**12:00 - 13:00** — Lunch break
 
-13:00 - 13:45 — Panel moderated by Brian Trippe
+**13:00 - 13:45** — Panel moderated by Brian Trippe
 
-13:45 - 14:05 — Short talk from Syrine Belakaria<br>
-14:05 - 14:30 — Short talk from Brian Trippe
+**13:45 - 14:05** — Short talk from Syrine Belakaria<br>
+**14:05 - 14:30** — Short talk from Brian Trippe
 
-14:30 - 15:00 — Coffee break
+**14:30 - 15:00** — Coffee break
 
-15:00 - 16:00 — Accepted lightning talks
+**15:00 - 16:00** — Accepted lightning talks
 
-16:00 - 17:00 — Unstructured networking and discussion
+**16:00 - 17:00** — Unstructured networking and discussion
