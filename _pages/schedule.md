@@ -46,8 +46,8 @@ nav_order: 3
 08:00 - 08:30 - Breakfast 
 
 08:30 - 09:15 — Invited talk from Jure Leskovec<br>
-09:15 - 10:00 — Invited talk 
-                Speaker: Jennifer Listgarten
+09:15 - 10:00 — Invited talk<br> 
+                Speaker: Jennifer Listgarten<br>
                 Title: How AI is Shaping Protein Engineering
 
 10:00 - 10:30 — Coffee break
