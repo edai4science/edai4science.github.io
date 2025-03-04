@@ -62,9 +62,6 @@ nav_order: 3
 
 14:30 - 15:00 — Coffee break
 
-14:00 - 14:45 — Invited talk from Aaron Streets<br>
-14:45 - 15:30 — Invited talk from Jennifer Chayes
-
 15:00 - 16:00 — Accepted lightning talks
 
 16:00 - 17:00 — Unstructured networking and discussion
