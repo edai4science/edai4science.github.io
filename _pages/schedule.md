@@ -16,7 +16,7 @@ nav_order: 3
 
 **08:15 - 08:30** - Welcome Note
 
-**08:30 - 09:15** — Invited talk from Stefano Ermon<br>
+**08:30 - 09:15** — Invited talk from Brian Trippe<br>
 **09:15 - 10:00** — Invited talk from Ashia Wilson
 
 **10:00 - 10:30** — Coffee break
@@ -53,15 +53,17 @@ nav_order: 3
 
 **10:00 - 10:30** — Coffee break
 
-**10:30 - 11:15** — Invited talk from Andreas Krause<br>
+**10:30 - 11:15** — Invited talk<br> 
+                **Speaker:** Andreas Krause<br>
+                **Title:** Machine learning in the Optimization and Discovery Loop
+
 **11:15 - 12:00** — Invited talk from Yisong Yue 
 
 **12:00 - 13:00** — Lunch break
 
 **13:00 - 13:45** — Panel moderated by Brian Trippe
 
-**13:45 - 14:05** — Short talk from Syrine Belakaria<br>
-**14:05 - 14:30** — Short talk from Brian Trippe
+**13:45 - 14:30** — Invited talk from Adji Bousso Dieng<br>
 
 **14:30 - 15:00** — Coffee break
 
