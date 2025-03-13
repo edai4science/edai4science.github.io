@@ -31,7 +31,7 @@ nav_order: 3
 **13:45 - 14:00** — Break
 
 **14:00 - 14:45** — Invited talk from Aaron Streets<br>
-**14:45 - 15:30** — Invited talk from Jennifer Chayes
+**14:45 - 15:30** — Accepted lightning talks
 
 **15:30 - 16:00** — Coffee break
 
