@@ -45,7 +45,9 @@ nav_order: 3
 
 **08:00 - 08:30** - Breakfast 
 
-**08:30 - 09:15** — Invited talk from Jure Leskovec
+**08:30 - 09:15** — Invited talk<br> 
+                **Speaker:** Jure Leskovec<br>
+                **Title:** AI Agents for Accelerating Biological Discovery: From Hypothesis Generation to Experimental Design
 
 **09:15 - 10:00** — Invited talk<br> 
                 **Speaker:** Jennifer Listgarten<br>
