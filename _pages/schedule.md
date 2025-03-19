@@ -35,11 +35,11 @@ nav_order: 3
 
 **15:30 - 16:00** — Coffee break
 
-**15:30 - 17:00** — Accepted lightning talks
+**16:00 - 17:00** — Accepted lightning talks
 
 **17:00 - 18:00** — Poster Session
 
-**17:00 - 18:00** — Workshop Dinner 
+**18:00 - 20:00** — Workshop Dinner 
 	
 #### 4th April, 2025
 
