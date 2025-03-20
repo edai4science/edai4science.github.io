@@ -9,7 +9,11 @@ nav_order: 3
 ---
 
 <br>
-
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 ## 3rd April, 2025
 
 <table>
