@@ -22,7 +22,7 @@ We invite abstract submissions related (but not limited) to the following topics
 
 ## Important Dates (Anywhere on Earth)
 
-Last date for abstract submission (Extended): 21 Mar, 2025
+Last date for abstract submission (Extended): 22 Mar, 2025
 
 <del>Last date for abstract submission: 15 Mar, 2025</del>
 
