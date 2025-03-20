@@ -8,14 +8,8 @@ nav: true
 nav_order: 3
 ---
 
-<br>
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 ## 3rd April, 2025
-
+{% raw %}
 <table>
     <tr>
         <th>Time</th>
@@ -38,8 +32,11 @@ nav_order: 3
     <tr><td>17:00 - 18:00</td><td>Poster Session</td></tr>
     <tr><td>18:00 - 20:00</td><td>Workshop Dinner</td></tr>
 </table>
+{% endraw %}
 
 ## 4th April, 2025
+
+{% raw %}
 <table>
     <tr>
         <th>Time</th>
@@ -58,3 +55,4 @@ nav_order: 3
     <tr><td>15:00 - 16:00</td><td>Accepted lightning talks</td></tr>
     <tr><td>16:00 - 17:00</td><td>Unstructured networking and discussion</td></tr>
 </table>
+{% endraw %}
