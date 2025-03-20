@@ -13,7 +13,7 @@ nav_order: 3
 ## 3rd April, 2025
 
 | Time           | Agenda                                   |
-|---------------|------------------------------------------|
+| --------------- | ------------------------------------------ |
 | 07:45 - 08:15 | Breakfast                               |
 | 08:15 - 08:30 | Welcome Note                           |
 | 08:30 - 09:15 | Invited talk from Brian Trippe     |
@@ -34,7 +34,7 @@ nav_order: 3
 ## 4th April, 2025
 
 | Time           | Agenda                                   |
-|---------------|------------------------------------------|
+| --------------- | ------------------------------------------ |
 | 08:00 - 08:30 | Breakfast                               |
 | 08:30 - 09:15 | Invited talk – **Speaker:** Jure Leskovec, **Title:** AI Agents for Accelerating Biological Discovery: From Hypothesis Generation to Experimental Design |
 | 09:15 - 10:00 | Invited talk – **Speaker:** Jennifer Listgarten, **Title:** How AI is Shaping Protein Engineering |
