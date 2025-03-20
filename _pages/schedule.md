@@ -47,9 +47,3 @@ nav_order: 3
 | 14:30 - 15:00 | Coffee break                          |
 | 15:00 - 16:00 | Accepted lightning talks             |
 | 16:00 - 17:00 | Unstructured networking and discussion |
-
-### Fixes Applied:
-- **Speaker** and **Title** are now bolded correctly.
-- Titles are italicized for readability.
-
-This will now display correctly in Markdown. Let me know if you need any more tweaks! 😊
