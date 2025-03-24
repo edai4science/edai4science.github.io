@@ -22,7 +22,9 @@ We invite abstract submissions related (but not limited) to the following topics
 
 ## Important Dates (Anywhere on Earth)
 
-Last date for abstract submission (Extended): 22 Mar, 2025
+Abstract submission is closed. 
+
+<del>Last date for abstract submission (Extended): 22 Mar, 2025</del>
 
 <del>Last date for abstract submission: 15 Mar, 2025</del>
 
@@ -34,7 +36,7 @@ Workshop: 3 and 4 April, 2025
 
 Please submit abstracts (200 words or fewer) in the submission form.
 
-[Link to submssion form](https://docs.google.com/forms/d/e/1FAIpQLSeAmUq7h2VRTySdQvZpqdoPwuScBLLe10jf7y9FluxFvbr4QQ/viewform?usp=header).
+Abstract submission is currently closed.
 
 ## Registration Details
 
