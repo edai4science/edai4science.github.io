@@ -22,7 +22,7 @@ nav_order: 3
 **10:30 - 11:15** — Invited talk from Kyunghyun Cho<br>
 **11:15 - 12:00** — Invited talk<br>
                 **Speaker:** David Baker<br>
-                **Title:** Design of New Protein Functions using Deep Learning
+                <div style="text-align: right">**Title:** Design of New Protein Functions using Deep Learning</div><br>
                 **Abstract:** Proteins mediate the critical processes of life and beautifully solve the challenges faced during the evolution of modern organisms. Our goal is to design a new generation of proteins that address current-day problems not faced during evolution. In contrast to traditional protein engineering efforts, which have focused on modifying naturally occurring proteins, we design new proteins from scratch to optimally solve the problem at hand. Increasingly, we develop and use deep learning methods to design amino acid sequences that are predicted to fold to desired structures and functions. We produce synthetic genes encoding these sequences and characterize them experimentally. In this talk, I will describe several recent advances in protein design.
 
 **12:00 - 13:00** — Lunch break
