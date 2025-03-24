@@ -14,14 +14,17 @@ nav_order: 3
 
 **08:15 - 08:30** - Welcome Note
 
-**08:30 - 09:15** — Invited talk from Brian Trippe<br>
-**09:15 - 10:00** — Invited talk from Ashia Wilson
+**08:30 - 09:15** — Invited talk<br>
+                    **Speaker:** Brian Trippe
+
+**09:15 - 10:00** — Invited talk<br>  
+                    **Speaker:** Ashia Wilson
 
 **10:00 - 10:30** — Coffee break
 
 **10:30 - 11:15** — Invited talk<br>
                 **Speaker:** Kyunghyun Cho
-                
+
 **11:15 - 12:00** — Invited talk<br>
                 **Speaker:** David Baker<br>
                 **Title:** Design of New Protein Functions using Deep Learning<br>
@@ -33,7 +36,9 @@ nav_order: 3
 
 **13:45 - 14:00** — Break
 
-**14:00 - 14:45** — Invited talk from Aaron Streets<br>
+**14:00 - 14:45** — Invited talk<br>
+                    **Speaker:** Aaron Streets
+
 **14:45 - 15:30** — Accepted lightning talks
 
 **15:30 - 16:00** — Coffee break
@@ -62,14 +67,16 @@ nav_order: 3
                 **Speaker:** Andreas Krause<br>
                 **Title:** Machine learning in the Optimization and Discovery Loop
 
-**11:15 - 12:00** — Invited talk from Yisong Yue 
+**11:15 - 12:00** — Invited talk<br> 
+                    **Speaker:** Yisong Yue
 
 **12:00 - 13:00** — Lunch break
 
 **13:00 - 13:45** — Panel moderated by Brian Trippe
 
-**13:45 - 14:30** — Invited talk from Adji Bousso Dieng<br>
-
+**13:45 - 14:30** — Invited talk<br> 
+                    **Speaker:** Adji Bousso Dieng
+                    
 **14:30 - 15:00** — Coffee break
 
 **15:00 - 16:00** — Accepted lightning talks
