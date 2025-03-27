@@ -24,8 +24,8 @@ nav_order: 3
 **10:00 - 10:30** — Coffee break
 
 **10:30 - 11:15** — Invited talk<br>
-                **Speaker:** Kyunghyun Cho<br>
-                **Title:** Causality gets Help from Deep Learning
+                    **Speaker:** Kyunghyun Cho<br>
+                    **Title:** Causality gets Help from Deep Learning
 
 **11:15 - 12:00** — Invited talk<br>
                 **Speaker:** David Baker<br>
