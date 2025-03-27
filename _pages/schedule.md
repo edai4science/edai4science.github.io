@@ -15,7 +15,8 @@ nav_order: 3
 **08:15 - 08:30** - Welcome Note
 
 **08:30 - 09:15** — Invited talk<br>
-                    **Speaker:** Brian Trippe
+                    **Speaker:** Brian Trippe<br>
+                    **Title:** Generative Methods for Protein Design: Recent Progress and Open Problems
 
 **09:15 - 10:00** — Invited talk<br>  
                     **Speaker:** Ashia Wilson
@@ -23,12 +24,12 @@ nav_order: 3
 **10:00 - 10:30** — Coffee break
 
 **10:30 - 11:15** — Invited talk<br>
-                **Speaker:** Kyunghyun Cho
+                **Speaker:** Kyunghyun Cho<br>
+                **Title:** Causality gets Help from Deep Learning
 
 **11:15 - 12:00** — Invited talk<br>
                 **Speaker:** David Baker<br>
-                **Title:** Design of New Protein Functions using Deep Learning<br>
-                **Abstract:** Proteins mediate the critical processes of life and beautifully solve the challenges faced during the evolution of modern organisms. Our goal is to design a new generation of proteins that address current-day problems not faced during evolution. In contrast to traditional protein engineering efforts, which have focused on modifying naturally occurring proteins, we design new proteins from scratch to optimally solve the problem at hand. Increasingly, we develop and use deep learning methods to design amino acid sequences that are predicted to fold to desired structures and functions. We produce synthetic genes encoding these sequences and characterize them experimentally. In this talk, I will describe several recent advances in protein design.
+                **Title:** Design of New Protein Functions using Deep Learning
 
 **12:00 - 13:00** — Lunch break
 
@@ -37,9 +38,12 @@ nav_order: 3
 **13:45 - 14:00** — Break
 
 **14:00 - 14:45** — Invited talk<br>
-                    **Speaker:** Aaron Streets
+                    **Speaker:** Aaron Streets<br>
+                    **Title:** Designing Multimodal Single-Cell Measurements
 
-**14:45 - 15:30** — Accepted lightning talks
+**14:45 - 15:30** — — Invited talk<br>
+                    **Speaker:** Brian Hie<br>
+                    **Title:** Genome Modeling and Design across All Domains of Life
 
 **15:30 - 16:00** — Coffee break
 
@@ -47,7 +51,7 @@ nav_order: 3
 
 **17:00 - 18:00** — Poster Session
 
-**18:00 - 20:00** — Workshop Dinner 
+**18:00** — Workshop Dinner 
 	
 #### 4th April, 2025
 
@@ -64,19 +68,21 @@ nav_order: 3
 **10:00 - 10:30** — Coffee break
 
 **10:30 - 11:15** — Invited talk<br> 
-                **Speaker:** Andreas Krause<br>
-                **Title:** Machine learning in the Optimization and Discovery Loop
+                    **Speaker:** Andreas Krause<br>
+                    **Title:** Machine learning in the Optimization and Discovery Loop
 
 **11:15 - 12:00** — Invited talk<br> 
-                    **Speaker:** Yisong Yue
+                    **Speaker:** Yisong Yue<br>
+                    **Title:** AI for Adaptive Experimental Design
 
 **12:00 - 13:00** — Lunch break
 
 **13:00 - 13:45** — Panel moderated by Brian Trippe
 
 **13:45 - 14:30** — Invited talk<br> 
-                    **Speaker:** Adji Bousso Dieng
-                    
+                    **Speaker:** Adji Bousso Dieng<br>
+                    **Title:** Vendi Scoring For Experimental Design
+
 **14:30 - 15:00** — Coffee break
 
 **15:00 - 16:00** — Accepted lightning talks
