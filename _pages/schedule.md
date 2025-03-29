@@ -19,7 +19,7 @@ nav_order: 3
                     **Title:** Generative Methods for Protein Design: Recent Progress and Open Problems
 
 **09:15 - 10:00** — Invited talk<br>  
-                    **Speaker:** Ashia Wilson
+                    **Speaker:** Ashia Wilson<br>
                     **Title:** Two Approaches Towards Adaptive Optimization
 
 **10:00 - 10:30** — Coffee break
@@ -36,7 +36,7 @@ nav_order: 3
 
 **13:00 - 13:40** — Accepted lightning talks
 <details>
-  <summary>Lightning Talk Details</summary>
+  <summary>Lightning talks details</summary>
   13:00 - 13:10  Preferential Multi-Objective Bayesian Optimization for Drug Discovery by Tai Dang<br>
   13:10 - 13:20  Diffusion-BBO: Diffusion-Based Inverse Modeling for Online Black-Box Optimization by Dongxia Wu<br>
   13:20 - 13:30  Diffusion Preference Optimization for Scientific Design by Minkai Xu<br>
@@ -57,7 +57,16 @@ nav_order: 3
 **15:30 - 16:00** — Coffee break
 
 **16:00 - 17:00** — Accepted lightning talks
-
+<details>
+  <summary>Lightning talks details</summary>
+  16:00 - 16:10  An AI Agent for Designing Genetic Perturbation Experiments by Yusuf  Roohani<br>
+  16:10 - 16:20  A Scalable Gene Network Model  for Functional Insights  into Single-Cell Dynamics by Paul Bertin<br>
+  16:20 - 16:30  Model guided optimization of stem cell differentiation into adaptive immune cells for clinical therapies by John Edgar<br>
+  16:30 - 16:40  The Importance of Implicit Semantic Context when Classifying Rare Phenomena in Large Scientific Imagery by Ellianna Abrahams<br>
+  16:40 - 16:50  PerTurboAgent: A self-planning agent for boosting sequential perturb-seq experiment by Yongju Lee<br>
+  16:50 - 17:00 Preference-Guided Diffusion for Multi-Objective Offline Optimization by Yashas Annadani
+ 
+</details>
 **17:00 - 18:00** — Poster Session
 
 **18:00** — Workshop Dinner 
@@ -95,5 +104,13 @@ nav_order: 3
 **14:30 - 15:00** — Coffee break
 
 **15:00 - 16:00** — Accepted lightning talks
-
+<details>
+  <summary>Lightning talks details</summary>
+  15:00 - 15:10  Improving Off-Policy Evaluation with LLM-Generated Counterfactual Annotations by Aishwarya Mandyam<br>
+  15:10 - 15:20  Principled Collaborative Bayesian Optimization with LLM Guidance by Edward De Brouwer<br>
+  15:20 - 15:30  Diversity-based selection for best policy identification in contextual bandit settings by Hyunji (Alex) Nam<br>
+  15:30 - 15:40  Practical Bayesian Algorithm Execution via Posterior Sampling by Raul Astudillo<br>
+  15:40 - 15:50  Gradient Oriented Active Learning for Candidate Drug Design by Venkatesh Medabalimi<br>
+  15:50 - 16:00 Aligning Protein Language Models with Continuous Feedback using Energy Rank Alignment by Sebastian Ibarraran
+</details>
 **16:00 - 17:00** — Unstructured networking and discussion

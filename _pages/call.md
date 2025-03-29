@@ -38,6 +38,13 @@ Please submit abstracts (200 words or fewer) in the submission form.
 
 Abstract submission is currently closed.
 
+## Poster Details
+
+
+We recommend the poster does not exceed the size of 44x44 inches, anything larger may be difficult to accommodate. If you need poster printing at Stanford, please refer to the [Tech Desk](https://thehub.stanford.edu/services/print-poster). All costs related to the poster printing are to be borne by the presenter.
+
+The poster boards will be on the ground floor of the Huang building. 
+
 ## Registration Details
 
 Attendance in the workshop requires a registration which is free of charge. Please register seperately even if you have submitted an abstract.
