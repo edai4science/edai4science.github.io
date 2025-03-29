@@ -20,6 +20,7 @@ nav_order: 3
 
 **09:15 - 10:00** — Invited talk<br>  
                     **Speaker:** Ashia Wilson
+                    **Title:** Two Approaches Towards Adaptive Optimization
 
 **10:00 - 10:30** — Coffee break
 
@@ -34,6 +35,14 @@ nav_order: 3
 **12:00 - 13:00** — Lunch break
 
 **13:00 - 13:40** — Accepted lightning talks
+<details>
+  <summary>Lightning Talk Details</summary>
+  13:00 - 13:10  Preferential Multi-Objective Bayesian Optimization for Drug Discovery by Tai Dang<br>
+  13:10 - 13:20  Diffusion-BBO: Diffusion-Based Inverse Modeling for Online Black-Box Optimization by Dongxia Wu<br>
+  13:20 - 13:30  Diffusion Preference Optimization for Scientific Design by Minkai Xu<br>
+  13:30 - 13:40 Optimizing Adaptive Experiments: A Unified Approach to Regret Minimization and Best-Arm Identification by Chao Qin
+ 
+</details>
 
 **13:45 - 14:00** — Break
 
