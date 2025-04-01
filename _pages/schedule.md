@@ -67,7 +67,7 @@ nav_order: 3
   16:50 - 17:00 Preference-Guided Diffusion for Multi-Objective Offline Optimization by Yashas Annadani
  
 </details>
-**17:00 - 18:00** — Poster Session
+**17:00 - 18:00** — Poster Session. Poster board assignments are provided [here](https://docs.google.com/document/d/1g3rzZ4bLZrIGxERI11knWOC2MdeXv-yxSYNU5oxgcSM/edit?usp=sharing).
 
 **18:00** — Workshop Dinner 
 	
@@ -95,7 +95,9 @@ nav_order: 3
 
 **12:00 - 13:00** — Lunch break
 
-**13:00 - 13:45** — Panel moderated by Brian Trippe
+**13:00 - 13:45** — Panel discussion<br>
+                    **Panelists:** Kyunghyun Cho, Andreas Krause, Barbara Engelhardt, Ashia Wilson, Yisong Yue
+                    **Moderator:** Brian Trippe
 
 **13:45 - 14:30** — Invited talk<br> 
                     **Speaker:** Adji Bousso Dieng<br>
@@ -107,7 +109,7 @@ nav_order: 3
 <details>
   <summary>Lightning talks details</summary>
   15:00 - 15:10  Improving Off-Policy Evaluation with LLM-Generated Counterfactual Annotations by Aishwarya Mandyam<br>
-  15:10 - 15:20  Principled Collaborative Bayesian Optimization with LLM Guidance by Edward De Brouwer<br>
+  15:10 - 15:20  Optimizing Likelihoods via Mutual Information: Bridging Simulation-Based Inference and Bayesian Optimal Experimental Design by Vincent Zaballa<br>
   15:20 - 15:30  Diversity-based selection for best policy identification in contextual bandit settings by Hyunji (Alex) Nam<br>
   15:30 - 15:40  Practical Bayesian Algorithm Execution via Posterior Sampling by Raul Astudillo<br>
   15:40 - 15:50  Gradient Oriented Active Learning for Candidate Drug Design by Venkatesh Medabalimi<br>
