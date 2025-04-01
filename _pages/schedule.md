@@ -96,7 +96,7 @@ nav_order: 3
 **12:00 - 13:00** — Lunch break
 
 **13:00 - 13:45** — Panel discussion<br>
-                    **Panelists:** Kyunghyun Cho, Andreas Krause, Barbara Engelhardt, Ashia Wilson, Yisong Yue
+                    **Panelists:** Kyunghyun Cho, Andreas Krause, Barbara Engelhardt, Ashia Wilson, Yisong Yue<br>
                     **Moderator:** Brian Trippe
 
 **13:45 - 14:30** — Invited talk<br> 
