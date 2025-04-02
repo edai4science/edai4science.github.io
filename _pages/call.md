@@ -47,10 +47,8 @@ The poster boards will be on the ground floor of the Huang building.
 
 ## Registration Details
 
-Attendance in the workshop requires a registration which is free of charge. Please register seperately even if you have submitted an abstract.
-
-[Link to registration form](https://docs.google.com/forms/d/e/1FAIpQLSehqSWM3l-Fs6ePrM3q1Z3jzojhvfkYRj2S1PljD7UwqLZrRg/viewform?usp=header).
-
+Due to a lot of interest and limited room capacity, the registration for the workshop has been closed.
+ 
 ## Questions
 
 If you have any questions, please do not hesitate to contact us at [edai4science@gmail.com](mailto:edai4science@gmail.com).
