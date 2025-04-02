@@ -47,8 +47,8 @@ The poster boards will be on the ground floor of the Huang building.
 
 ## Registration Details
 
-Due to a lot of interest and limited room capacity, the registration for the workshop has been closed.
- 
+The registration for the workshop is currently closed.
+
 ## Questions
 
 If you have any questions, please do not hesitate to contact us at [edai4science@gmail.com](mailto:edai4science@gmail.com).
