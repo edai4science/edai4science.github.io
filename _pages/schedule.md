@@ -99,20 +99,18 @@ nav_order: 3
                     **Panelists:** Kyunghyun Cho, Andreas Krause, Barbara Engelhardt, Ashia Wilson, Yisong Yue<br>
                     **Moderator:** Brian Trippe
 
-**13:45 - 14:30** — Invited talk<br> 
-                    **Speaker:** Adji Bousso Dieng<br>
-                    **Title:** Vendi Scoring For Experimental Design
-
-**14:30 - 15:00** — Coffee break
-
-**15:00 - 16:00** — Accepted lightning talks
+**13:45 - 14:50** — Accepted lightning talks
 <details>
   <summary>Lightning talks details</summary>
-  15:00 - 15:10  Improving Off-Policy Evaluation with LLM-Generated Counterfactual Annotations by Aishwarya Mandyam<br>
-  15:10 - 15:20  Optimizing Likelihoods via Mutual Information: Bridging Simulation-Based Inference and Bayesian Optimal Experimental Design by Vincent Zaballa<br>
-  15:20 - 15:30  Diversity-based selection for best policy identification in contextual bandit settings by Hyunji (Alex) Nam<br>
-  15:30 - 15:40  Practical Bayesian Algorithm Execution via Posterior Sampling by Raul Astudillo<br>
-  15:40 - 15:50  Gradient Oriented Active Learning for Candidate Drug Design by Venkatesh Medabalimi<br>
-  15:50 - 16:00 Aligning Protein Language Models with Continuous Feedback using Energy Rank Alignment by Sebastian Ibarraran
+  13:45 - 13:55  Improving Off-Policy Evaluation with LLM-Generated Counterfactual Annotations by Aishwarya Mandyam<br>
+  13:55 - 14:05  Optimizing Likelihoods via Mutual Information: Bridging Simulation-Based Inference and Bayesian Optimal Experimental Design by Vincent Zaballa<br>
+  14:05 - 14:15  Diversity-based selection for best policy identification in contextual bandit settings by Hyunji (Alex) Nam<br>
+  15
+  14:15 - 14:25  Practical Bayesian Algorithm Execution via Posterior Sampling by Raul Astudillo<br>
+  14:25 - 14:35  Gradient Oriented Active Learning for Candidate Drug Design by Venkatesh Medabalimi<br>
+  14:35 - 14:45 Aligning Protein Language Models with Continuous Feedback using Energy Rank Alignment by Sebastian Ibarraran
 </details>
-**16:00 - 17:00** — Unstructured networking and discussion
+
+**14:50 - 15:30** — Coffee break
+
+**15:30 - 16:30** — Unstructured networking and discussion
